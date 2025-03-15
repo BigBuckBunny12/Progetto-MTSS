@@ -1,4 +1,6 @@
 [2101076]
 [2113199]
-[Processori](processori.md)
-[Schede Madri](schede_madri.md)Elettronica Padovana
+Elettronica Padovana
+# Componenti
+[Processori](componenti/processori.md)
+[Schede Madri](componenti/schede_madri.md)
